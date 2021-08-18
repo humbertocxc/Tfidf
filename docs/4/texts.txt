@@ -1,0 +1,30 @@
+1 frase com 1 uma frase comum comum
+2 frase com 1 uma frase comum comum
+3 frase com 1 outro teste
+4 frase com 1 outro teste
+5 frase com 1 outro teste
+6 frase com 0 uma frase comum comum
+7 frase com 0 outro teste
+8 frase com 0 uma frase comum comum
+9 frase com 0 outro teste
+10 frase com 0 outro teste
+11 frase com 0 outro teste
+12 frase com 0 uma frase comum comum
+13 frase com 0 outro teste
+14 frase com 0 outro teste
+15 frase com 0 outro teste
+16 frase com -1 o terceiro
+17 frase com -1 bem incomum
+18 frase com -1 uma frase comum comum
+19 frase com -1 uma frase comum comum
+20 frase com -1 bem incomum
+21 frase com -1 bem incomum
+22 frase com -1 o terceiro
+23 frase com -1 o terceiro
+24 frase com -1 uma frase comum comum
+25 frase com -1 o terceiro
+26 frase com -1 o terceiro
+27 frase com -1 uma frase comum comum
+28 frase com -1 o terceiro
+29 frase com -1 o terceiro
+30 frase com -1 o terceiro

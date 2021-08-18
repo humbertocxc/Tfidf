@@ -169,7 +169,7 @@ def executa_treino_teste(X, y, k, base):
 
 def treino_teste_lib(X, y, k, base):
     from sklearn.feature_extraction.text import TfidfVectorizer
-    from knn.knn_l import pega_acerto
+    # from knn.knn_l import pega_acerto
     media = 0
     
     for i in range(1):

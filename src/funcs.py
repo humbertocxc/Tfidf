@@ -169,6 +169,7 @@ def executa_treino_teste(X, y, k, base):
 
 def treino_teste_lib(X, y, k, base):
     from sklearn.feature_extraction.text import TfidfVectorizer
+    import numpy as np
     # from knn.knn_l import pega_acerto
     media = 0
     
@@ -183,7 +184,9 @@ def treino_teste_lib(X, y, k, base):
         matriz_treino = tf.transform(X_train) #transforma em matriz
         matriz_teste = tf.transform(X_test)
 
-        print(type(matriz_treino))
+        matriz_teste.toarray()
+
+        print(type(matriz_teste))
 
         # acuracia = pega_acerto(matriz_teste, matriz_treino, y_train, y_test, 5, base)
         # media += acuracia

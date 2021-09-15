@@ -1,0 +1,9 @@
+O arquivo principal para ser executado está na pasta src e é o init.py
+
+Ele precisa receber, respectivamente, o arquivo com os scores e o arquivo com os textos como argumento pelo terminal
+
+Na pasta docs estão os dois arquivos de score e texts recebidos por email, mais dois arquivos pequenos de score e texts feitos apenas para melhor visualização da matriz
+
+Para executar o programa com os arquivos score.txt e texts.txt, que estão na pasta docs,  basta escrever:
+
+python3 src/init.py docs/1/score.txt docs/1/texts/txt stopwords.txt
